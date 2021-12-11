@@ -28,18 +28,18 @@ hi, i'm [Hitarth Mehta](https://github.com/disuhitarth), a passionate self-taugh
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/disuhitarth/disuhitarth/blob/main/code.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:disuhitarth@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 
-- 👋 Hi, I’m @disuhitarth
+<!-- - 👋 Hi, I’m @disuhitarth
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+ -->
 <br />
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
