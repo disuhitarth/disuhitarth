@@ -30,7 +30,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:disuhitarth@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 
@@ -40,6 +40,9 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<br />
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <!---
 disuhitarth/disuhitarth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
