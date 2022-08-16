@@ -25,7 +25,7 @@
 
 hi, i'm [Hitarth Mehta](https://drive.google.com/file/d/1DeCjteXA45NpBQkObk5q3GtQvumQEOlB/view?usp=sharing), a passionate self-taught full stack developer and a Data Analyst. My passion for code lies with dreaming up ideas and making them come true by using cutting edge technologies. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
 
