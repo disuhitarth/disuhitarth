@@ -16,7 +16,7 @@
 </a>
 </p>
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Hitarth Mehta 👩‍💻| 💻 Data Analyst and Developer | 🛸 Canada, India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Hitarth Mehta 👩‍💻| 💻 Data Analyst and Developer | 🛸 Canada  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=disuhitarth.disuhitarth)
