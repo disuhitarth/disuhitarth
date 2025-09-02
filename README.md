@@ -114,7 +114,8 @@ If you’re building smart factories (Industry 4.0) and want **AI + IoT + data p
 
   <!-- Streak -->
   <p>
-    <img src="[https://streak-stats.demolab.com?user=disuhitarth&theme=transparent](https://streak-stats.demolab.com?user=disuhitarth&theme=gruvbox&hide_border=true)" alt="streak"/>
+<!--     <img src="[https://streak-stats.demolab.com?user=disuhitarth&theme=transparent](https://streak-stats.demolab.com?user=disuhitarth&theme=gruvbox&hide_border=true)" alt="streak"/> -->
+    ![GitHub Stats](https://streak-stats.demolab.com?user=disuhitarth&theme=gruvbox&hide_border=true)
   </p>
 
   <!-- Activity Graph -->
