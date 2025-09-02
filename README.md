@@ -115,7 +115,6 @@ If you’re building smart factories (Industry 4.0) and want **AI + IoT + data p
   <!-- Streak -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=disuhitarth&theme=default&show_icons=true&hide_border=false&count_private=true" height="165" alt="streak"/>
-    
   </p>
 
   <!-- Activity Graph -->
