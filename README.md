@@ -7,7 +7,7 @@ Toronto, Canada 🇨🇦
 <div align="center">
 
 <!-- Animated gradient header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hitarth%20Mehta&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IIoT%20%26%20Software%20Developer%20%E2%80%A2%20Industrial%20Automation%20%E2%80%A2%20Full-Stack&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hitarth%20Mehta&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IIoT%20and%20Software%20Developer%20%E2%80%A2%20Industrial%20Automation%20%E2%80%A2%20Full-Stack&descAlignY=55&descSize=18"/>
 
 <!-- Animated typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8F%AD+Industrial+IoT+%E2%80%A2+Ignition+SCADA+%E2%80%A2+MQTT+%E2%80%A2+Grafana;%F0%9F%9A%80+30%2C000%2B+Users+%7C+54%2B+Locations+%7C+95%25%2B+Uptime;%F0%9F%92%BB+5%2B+Years+Building+Production+Systems" alt="Typing SVG" /></a>
@@ -20,7 +20,6 @@ Toronto, Canada 🇨🇦
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=disuhitarth&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
 
 </div>
 
@@ -333,26 +332,6 @@ Browser-based image editing with fade effects. Canvas API.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=disuhitarth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=disuhitarth&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disuhitarth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150"/>
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=disuhitarth&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
